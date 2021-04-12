@@ -1,0 +1,177 @@
+{"status": "OK", "copyright": "Copyright (c) 2021 The New York Times Company. All Rights Reserved.", "section": "home","last_updated": "2021-04-11T09:33:10-04:00","num_results": 58,
+  "results": [
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "Young Migrants Crowd Shelters, Posing Test for Biden",
+      "abstract": "The administration is under intensifying pressure to expand its capacity to care for as many as 35,000 unaccompanied minors, part of a wave of people crossing the border.",
+      "url": "https://www.nytimes.com/2021/04/10/us/politics/biden-immigration.html",
+      "uri": "nyt://article/7d8dd5bb-6192-5242-892b-2372329a52cd",
+      "byline": "By Michael D. Shear, Zolan Kanno-Youngs and Eileen Sullivan",
+      "item_type": "Article",
+      "updated_date": "2021-04-11T00:23:03-04:00",
+      "created_date": "2021-04-10T12:14:37-04:00",
+      "published_date": "2021-04-10T12:14:37-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Illegal Immigration",
+        "Immigration and Emigration",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Administration for Children and Families",
+        "Border Patrol (US)",
+        "Citizenship and Immigration Services (US)",
+        "Domestic Policy Council (US)",
+        "Health and Human Services Department",
+        "Homeland Security Department",
+        "Immigration and Customs Enforcement (US)",
+        "National Aeronautics and Space Administration"
+      ],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Central America"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/04/10/us/politics/10dc-immig-sub1/10dc-immig-sub1-superJumbo-v2.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A group of migrants waiting in La Joya, Texas, to board a bus from Customs and Border Protection after crossing the Rio Grande in March. Last month, border agents encountered nearly 19,000 children at the border.",
+          "copyright": "Adrees Latif/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/04/10/us/politics/10dc-immig-sub1/10dc-immig-sub1-thumbStandard-v2.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A group of migrants waiting in La Joya, Texas, to board a bus from Customs and Border Protection after crossing the Rio Grande in March. Last month, border agents encountered nearly 19,000 children at the border.",
+          "copyright": "Adrees Latif/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/04/10/us/politics/10dc-immig-sub1/10dc-immig-sub1-thumbLarge-v2.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A group of migrants waiting in La Joya, Texas, to board a bus from Customs and Border Protection after crossing the Rio Grande in March. Last month, border agents encountered nearly 19,000 children at the border.",
+          "copyright": "Adrees Latif/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/04/10/us/politics/10dc-immig-sub1/10dc-immig-sub1-mediumThreeByTwo210-v2.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A group of migrants waiting in La Joya, Texas, to board a bus from Customs and Border Protection after crossing the Rio Grande in March. Last month, border agents encountered nearly 19,000 children at the border.",
+          "copyright": "Adrees Latif/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/04/10/us/politics/10dc-immig-sub1/10dc-immig-sub1-articleInline-v2.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A group of migrants waiting in La Joya, Texas, to board a bus from Customs and Border Protection after crossing the Rio Grande in March. Last month, border agents encountered nearly 19,000 children at the border.",
+          "copyright": "Adrees Latif/Reuters"
+        }
+      ],
+      "short_url": "https://nyti.ms/2PK9qDX"
+    },
+    {
+      "section": "us",
+      "subsection": "",
+      "title": "'I Have No Idea Where My Daughter Is': Migrant Parents Are Desperate for News",
+      "abstract": "With a record 20,000 migrant children in shelters and detention facilities, many parents have waited weeks to learn what happened to their children after they crossed the border.",
+      "url": "https://www.nytimes.com/2021/04/09/us/migrant-children-border-parents.html",
+      "uri": "nyt://article/37584028-0246-5643-99a1-474d89f10767",
+      "byline": "By Miriam Jordan",
+      "item_type": "Article",
+      "updated_date": "2021-04-09T10:14:22-04:00",
+      "created_date": "2021-04-09T05:00:28-04:00",
+      "published_date": "2021-04-09T05:00:28-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Illegal Immigration",
+        "Immigration and Emigration",
+        "Families and Family Life",
+        "Smuggling"
+      ],
+      "org_facet": [
+        "Customs and Border Protection (US)"
+      ],
+      "per_facet": [
+        "Biden, Joseph R Jr"
+      ],
+      "geo_facet": [
+        "United States"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2021/04/09/us/09separated-families/09separated-families-superJumbo-v3.jpg",
+          "format": "superJumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Maria Ana Mendez, left, got a phone call when her daughter Cindy arrived in the United States from Guatemala, but then waited weeks to hear her voice again. They were reunited in San Diego this week.",
+          "copyright": "Ariana Drehsler for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/04/09/us/09separated-families/09separated-families-thumbStandard-v3.jpg",
+          "format": "Standard Thumbnail",
+          "height": 75,
+          "width": 75,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Maria Ana Mendez, left, got a phone call when her daughter Cindy arrived in the United States from Guatemala, but then waited weeks to hear her voice again. They were reunited in San Diego this week.",
+          "copyright": "Ariana Drehsler for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/04/09/us/09separated-families/09separated-families-thumbLarge-v3.jpg",
+          "format": "thumbLarge",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Maria Ana Mendez, left, got a phone call when her daughter Cindy arrived in the United States from Guatemala, but then waited weeks to hear her voice again. They were reunited in San Diego this week.",
+          "copyright": "Ariana Drehsler for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/04/09/us/09separated-families/09separated-families-mediumThreeByTwo210-v3.jpg",
+          "format": "mediumThreeByTwo210",
+          "height": 140,
+          "width": 210,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Maria Ana Mendez, left, got a phone call when her daughter Cindy arrived in the United States from Guatemala, but then waited weeks to hear her voice again. They were reunited in San Diego this week.",
+          "copyright": "Ariana Drehsler for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2021/04/09/us/09separated-families/09separated-families-articleInline-v3.jpg",
+          "format": "Normal",
+          "height": 127,
+          "width": 190,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Maria Ana Mendez, left, got a phone call when her daughter Cindy arrived in the United States from Guatemala, but then waited weeks to hear her voice again. They were reunited in San Diego this week.",
+          "copyright": "Ariana Drehsler for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3myiZS3"
+    }
+  ]
+}
